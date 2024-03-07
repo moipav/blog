@@ -1,0 +1,16 @@
+{
+    "name": "p/blog",
+    "autoload": {
+        "psr-4": {
+            "P\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "p"
+        }
+    ],
+    "require": {
+        "aura/sqlquery": "^3.0"
+    }
+}
