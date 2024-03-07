@@ -1,6 +1,6 @@
 <?php
 
-namespace P\Valhala;
+namespace P\Blog;
 
 use Aura\SqlQuery\QueryFactory;
 use PDO;

@@ -1,6 +1,6 @@
 <?php
 
-use P\Valhala\QueryBuilder;
+use P\Blog\QueryBuilder;
 
 require_once '../vendor/autoload.php';
 
