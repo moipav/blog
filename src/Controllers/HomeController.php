@@ -15,7 +15,7 @@ class HomeController
         $this->builder = new QueryBuilder();
     }
 
-    public function index()
+    public function index(): string
     {
 
         $posts = $this->builder->getAll('posts');

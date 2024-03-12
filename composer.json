@@ -13,6 +13,10 @@
     "require": {
         "aura/sqlquery": "^3.0",
       "ext-pdo": "*",
-        "league/plates": "^3.5"
+        "league/plates": "^3.5",
+        "tamtamchik/simple-flash": "^3.0"
+    },
+    "require-dev": {
+        "kint-php/kint": "^5.1"
     }
 }
